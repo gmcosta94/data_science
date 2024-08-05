@@ -4,19 +4,12 @@
   <img src="banner3.png" >
 </p>
 
-# Gabriel Costa
-<sub>*Senior Data Analyst* na Brightgrove </sub> 
+Este repositório é onde coloco projetos relacionados a Análise de Dados em Python e projetos de Ciência de Dados
 
-<sub>*Consultor de Dados* na Homer Parcerias Imobiliárias </sub>
+-------------
+(ENG)
 
-Formado em Administração de Empresas pela FGV/RJ, sempre entendi que Dados seriam o futuro da gestão. Foi então que comecei a me capacitar para atuar como Analista de Dados, me especializando em Business Intelligence e Visualização de Dados. 
-Buscando avançar ainda mais na área de Dados, busco cada vez mais incorporar análises estatísticas e mergulhar no ramo da Ciência de Dados.
-
-**Background:** SQL, Python, Power BI, Tableau
-
-**Links:**
-* [LinkedIn](https://www.linkedin.com/in/gabriel-miranda-costa/)
-* [Medium](https://medium.com/@gm.costa94)
+This repository is where I upload Data Analysis and Data Science projects in Python
 
 
 ## Projetos:
