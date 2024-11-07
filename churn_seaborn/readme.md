@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
   <img src="seaborn-1.svg" width="200" >
 </p>
 
