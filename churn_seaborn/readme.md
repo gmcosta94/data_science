@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="seaborn-1.svg" >
+</p>
+
 🇧🇷
 
 Este não é exatamente um projeto, mas apenas um "resumo" dos principais recurso gráficos da biblioteca Seaborn.
