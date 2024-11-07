@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="seaborn-1.svg" >
+  <img src="seaborn-1.svg" width="200" >
 </p>
 
 🇧🇷
